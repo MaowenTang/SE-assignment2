@@ -1,3 +1,3 @@
-print("Hello from feature-2")
+print("Hello from MAIN - conflict demo")
 print("Hello, World!")
 print("Hi! Maowen")
