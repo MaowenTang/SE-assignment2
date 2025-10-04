@@ -32,3 +32,10 @@ Expected output:
     Please enter your name: Tang
     Hello, Tang!
 
+## Issues with Resolutions
+To demonstrate issue tracking and resolution using GitHub Issues, I created **two issues** in the repository:
+
+- **Issue #1:** Assigned to a classmate.
+- **Issue #2:** Assigned to myself — describing the need to add a new feature (`user input` functionality) to the program.
+
+Each issue was tracked through GitHub’s issue management system and linked directly to the corresponding commits using the `Fixes #<issue_number>` syntax. This automatically closed the issues once the commits were pushed to the `main` branch.
