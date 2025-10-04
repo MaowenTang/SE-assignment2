@@ -1,7 +1,7 @@
 # SE-assignment2
 
 ## Project Description
-This project is part of the CINS 5318 Software Engineering course.
+This project is CINS 5318 Software Engineering course assignment2.
 It demonstrates how to use Git and GitHub for version control, including:
 - Creating and cloning a repository
 - Working with branches
