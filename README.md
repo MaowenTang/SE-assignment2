@@ -27,8 +27,8 @@ Execution
 
 Expected output:
 
-Hello, World!
-Hi! Maowen
-Please enter your name: Tang
-Hello, Tang!
+    Hello, World!
+    Hi! Maowen
+    Please enter your name: Tang
+    Hello, Tang!
 
