@@ -1,3 +1,3 @@
-# A simple script that prints "Hello, World!" to the console.
+print("Hello from main")
 print("Hello, World!")
 print("Hi! Maowen")
